@@ -1,0 +1,516 @@
+{
+“last_updated”: “2026-03-03”,
+“lenders”: [
+{
+“lender”: “Commonwealth Bank”,
+“parent_group”: null,
+“loan_type”: “home”,
+“product_name”: “Standard Variable Rate Home Loan (Wealth Package) - Owner Occupied P&I (LVR ≤ 60%)”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “variable”,
+“interest_rate_pct”: 5.84,
+“comparison_rate_pct”: 6.22,
+“upfront_fees_aud”: 0,
+“ongoing_fees_aud_per_year”: 395,
+“min_loan_amount_aud”: 150000,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: 60,
+“features”: [“offset”, “redraw”, “extra_repayments”, “split_loan”],
+“notes”: [
+“Rate shown is for new borrowings with Wealth Package and discount margin offer (LVR ≤ 60%).”,
+“Wealth Package requires minimum package lending balance of at least $150,000.”,
+“Wealth Package annual fee stated on CommBank fixed-rate page as $395 payable in advance (effective from 14 March 2026).”,
+“Fees shown on the SVR page indicate establishment and monthly service fees are waived with Wealth Package.”
+],
+“source_urls”: [
+“https://www.commbank.com.au/home-loans/standard-variable-rate.html”,
+“https://www.commbank.com.au/home-loans/fixed-rate.html”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “Commonwealth Bank”,
+“parent_group”: null,
+“loan_type”: “home”,
+“product_name”: “Fixed Rate Home Loan (Wealth Package) - 2 Year Fixed Owner Occupied P&I”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “fixed”,
+“interest_rate_pct”: 6.04,
+“comparison_rate_pct”: 7.64,
+“upfront_fees_aud”: null,
+“ongoing_fees_aud_per_year”: 395,
+“min_loan_amount_aud”: 150000,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: null,
+“features”: [“split_loan”, “extra_repayments”],
+“notes”: [
+“Selected the ‘2 year fixed rate (with Wealth Package)’ option shown on the fixed rate page.”,
+“Optional Rate Lock fee of $750 is mentioned on the fixed rate page.”
+],
+“source_urls”: [
+“https://www.commbank.com.au/home-loans/fixed-rate.html”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “Westpac”,
+“parent_group”: null,
+“loan_type”: “home”,
+“product_name”: “Flexi First Option Home Loan - Online Offer (Owner Occupier P&I, LVR ≤ 80%)”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “variable”,
+“interest_rate_pct”: 5.49,
+“comparison_rate_pct”: 5.5,
+“upfront_fees_aud”: null,
+“ongoing_fees_aud_per_year”: null,
+“min_loan_amount_aud”: null,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: 80,
+“features”: [“redraw”, “extra_repayments”, “split_loan”],
+“notes”: [
+“Online offer eligibility on the page indicates LVR must be 80% or less for the featured online offer rate.”
+],
+“source_urls”: [
+“https://www.westpac.com.au/personal-banking/home-loans/variable/basic-variable-home-loan/”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “Westpac”,
+“parent_group”: null,
+“loan_type”: “home”,
+“product_name”: “Fixed Options Home Loan - 2 Year Fixed (Owner Occupier P&I) - Standard Rate”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “fixed”,
+“interest_rate_pct”: 6.19,
+“comparison_rate_pct”: 8.01,
+“upfront_fees_aud”: null,
+“ongoing_fees_aud_per_year”: null,
+“min_loan_amount_aud”: null,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: null,
+“features”: [“split_loan”],
+“notes”: [
+“Selected the ‘Standard rate’ for Owner Occupier 2-year fixed term shown on the fixed rate page.”
+],
+“source_urls”: [
+“https://www.westpac.com.au/personal-banking/home-loans/fixed/”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “NAB”,
+“parent_group”: null,
+“loan_type”: “home”,
+“product_name”: “NAB Base Variable Rate Home Loan (Owner Occupier P&I)”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “variable”,
+“interest_rate_pct”: 5.94,
+“comparison_rate_pct”: 5.98,
+“upfront_fees_aud”: 0,
+“ongoing_fees_aud_per_year”: 0,
+“min_loan_amount_aud”: null,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: 95,
+“features”: [“redraw”, “extra_repayments”],
+“notes”: [
+“Product page shows $0 application fee and $0 monthly fee for this offer.”,
+“Product page indicates borrowing up to 95% for owner occupier principal & interest.”
+],
+“source_urls”: [
+“https://www.nab.com.au/personal/home-loans/nab-base-variable-rate-home-loan”,
+“https://www.nab.com.au/personal/interest-rates-fees-and-charges/home-loan-interest-rates”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “NAB”,
+“parent_group”: null,
+“loan_type”: “home”,
+“product_name”: “NAB Fixed Rate Home Loan - 2 Year Fixed (Owner Occupier P&I, LVR ≤ 60%)”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “fixed”,
+“interest_rate_pct”: 5.99,
+“comparison_rate_pct”: 6.6,
+“upfront_fees_aud”: null,
+“ongoing_fees_aud_per_year”: null,
+“min_loan_amount_aud”: null,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: 60,
+“features”: [“split_loan”, “extra_repayments”],
+“notes”: [
+“Rate selected from NAB’s home loan interest rates page for 2-year fixed period, owner occupier P&I, LVR 60% or less.”
+],
+“source_urls”: [
+“https://www.nab.com.au/personal/interest-rates-fees-and-charges/home-loan-interest-rates”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “ANZ”,
+“parent_group”: null,
+“loan_type”: “home”,
+“product_name”: “ANZ Standard Variable Rate Home Loan (Owner Occupier P&I)”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “variable”,
+“interest_rate_pct”: null,
+“comparison_rate_pct”: null,
+“upfront_fees_aud”: null,
+“ongoing_fees_aud_per_year”: null,
+“min_loan_amount_aud”: null,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: null,
+“features”: [],
+“notes”: [
+“Official page content did not expose specific numeric rates in the retrieved HTML snapshot (likely dynamically rendered).”
+],
+“source_urls”: [
+“https://www.anz.com.au/personal/home-loans/interest-rates/standard-variable-rate/”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “ANZ”,
+“parent_group”: null,
+“loan_type”: “home”,
+“product_name”: “ANZ Fixed Rate Home Loan (Owner Occupier P&I)”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “fixed”,
+“interest_rate_pct”: null,
+“comparison_rate_pct”: null,
+“upfront_fees_aud”: null,
+“ongoing_fees_aud_per_year”: null,
+“min_loan_amount_aud”: null,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: null,
+“features”: [],
+“notes”: [
+“Official page content did not expose specific numeric rates in the retrieved HTML snapshot (likely dynamically rendered).”
+],
+“source_urls”: [
+“https://www.anz.com.au/personal/home-loans/interest-rates/fixed-rate/”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “Macquarie”,
+“parent_group”: null,
+“loan_type”: “home”,
+“product_name”: “Macquarie Basic Home Loan - Variable (Owner Occupier P&I, LVR ≤ 60%)”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “variable”,
+“interest_rate_pct”: 5.9,
+“comparison_rate_pct”: 5.92,
+“upfront_fees_aud”: null,
+“ongoing_fees_aud_per_year”: null,
+“min_loan_amount_aud”: null,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: 60,
+“features”: [“redraw”, “extra_repayments”, “split_loan”],
+“notes”: [
+“Rate selected from the ‘Compare all interest rates’ table for the Basic home loan product, LVR ≤ 60%.”
+],
+“source_urls”: [
+“https://www.macquarie.com.au/home-loans/home-loan-rates.html”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “Macquarie”,
+“parent_group”: null,
+“loan_type”: “home”,
+“product_name”: “Macquarie Basic Home Loan - 2 Year Fixed (Owner Occupier P&I, LVR ≤ 70%)”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “fixed”,
+“interest_rate_pct”: 6.29,
+“comparison_rate_pct”: 6.03,
+“upfront_fees_aud”: null,
+“ongoing_fees_aud_per_year”: null,
+“min_loan_amount_aud”: null,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: 70,
+“features”: [“split_loan”, “extra_repayments”],
+“notes”: [
+“Rate selected from the ‘Compare all interest rates’ table for the Basic home loan product, 2 year fixed, LVR ≤ 70%.”
+],
+“source_urls”: [
+“https://www.macquarie.com.au/home-loans/home-loan-rates.html”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “ING”,
+“parent_group”: “ING Group”,
+“loan_type”: “home”,
+“product_name”: “ING Mortgage Simplifier - Variable (Owner Occupier P&I)”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “variable”,
+“interest_rate_pct”: null,
+“comparison_rate_pct”: null,
+“upfront_fees_aud”: null,
+“ongoing_fees_aud_per_year”: null,
+“min_loan_amount_aud”: null,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: null,
+“features”: [],
+“notes”: [
+“Official rates appear to be presented in an interactive table that was not available as numeric values in the retrieved HTML snapshot.”
+],
+“source_urls”: [
+“https://www.ing.com.au/home-loans/interest-rates-and-fees.html”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “ING”,
+“parent_group”: “ING Group”,
+“loan_type”: “home”,
+“product_name”: “ING Fixed Rate Home Loan (Owner Occupier P&I)”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “fixed”,
+“interest_rate_pct”: null,
+“comparison_rate_pct”: null,
+“upfront_fees_aud”: null,
+“ongoing_fees_aud_per_year”: null,
+“min_loan_amount_aud”: null,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: null,
+“features”: [],
+“notes”: [
+“Official fixed rates appear to be presented in an interactive table that was not available as numeric values in the retrieved HTML snapshot.”
+],
+“source_urls”: [
+“https://www.ing.com.au/home-loans/interest-rates-and-fees.html”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “Bendigo and Adelaide Bank”,
+“parent_group”: null,
+“loan_type”: “home”,
+“product_name”: “Bendigo Home Loan Rates - Variable (Owner Occupier P&I, LVR ≤ 60%)”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “variable”,
+“interest_rate_pct”: 5.69,
+“comparison_rate_pct”: 5.92,
+“upfront_fees_aud”: null,
+“ongoing_fees_aud_per_year”: null,
+“min_loan_amount_aud”: null,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: 60,
+“features”: [],
+“notes”: [
+“Selected from the Bendigo ‘Home loan rates’ page under Principal & Interest, Variable - LVR ≤ 60%.”
+],
+“source_urls”: [
+“https://www.bendigobank.com.au/personal/home-loans/rates/”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “Bendigo and Adelaide Bank”,
+“parent_group”: null,
+“loan_type”: “home”,
+“product_name”: “Bendigo Home Loan Rates - 2 Year Fixed (Owner Occupier P&I)”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “fixed”,
+“interest_rate_pct”: 5.74,
+“comparison_rate_pct”: 5.96,
+“upfront_fees_aud”: null,
+“ongoing_fees_aud_per_year”: null,
+“min_loan_amount_aud”: null,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: null,
+“features”: [],
+“notes”: [
+“Selected from the Bendigo ‘Home loan rates’ page under Principal & Interest, 2 Year fixed.”
+],
+“source_urls”: [
+“https://www.bendigobank.com.au/personal/home-loans/rates/”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “Bank of Queensland”,
+“parent_group”: null,
+“loan_type”: “home”,
+“product_name”: “Clear Path Home Loan (Owner Occupier P&I) - Variable”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “variable”,
+“interest_rate_pct”: null,
+“comparison_rate_pct”: null,
+“upfront_fees_aud”: null,
+“ongoing_fees_aud_per_year”: null,
+“min_loan_amount_aud”: 150000,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: 95,
+“features”: [“offset”, “redraw”, “extra_repayments”, “split_loan”],
+“notes”: [
+“Official BOQ page section retrieved did not expose numeric variable rates in the HTML snapshot (placeholders present).”,
+“Product page indicates minimum loan amount of $150,000 and maximum LVR of 95%.”
+],
+“source_urls”: [
+“https://www.boq.com.au/personal/home-loans/clear-path”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “Bank of Queensland”,
+“parent_group”: null,
+“loan_type”: “home”,
+“product_name”: “Discounted 2-year fixed rate Home Loan (BOQ website home loans page) - P&I”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “fixed”,
+“interest_rate_pct”: 5.69,
+“comparison_rate_pct”: 5.78,
+“upfront_fees_aud”: null,
+“ongoing_fees_aud_per_year”: null,
+“min_loan_amount_aud”: null,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: null,
+“features”: [],
+“notes”: [
+“Rate captured from BOQ ‘Home loans’ page which advertises a discounted 2-year fixed rate; eligibility details may apply (not captured here).”
+],
+“source_urls”: [
+“https://www.boq.com.au/personal/home-loans”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “HSBC Australia”,
+“parent_group”: “HSBC Group”,
+“loan_type”: “home”,
+“product_name”: “HSBC Standard Variable Rate Home Loan (Owner Occupier P&I with Home Loan Package, LVR ≤ 60%)”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “variable”,
+“interest_rate_pct”: 5.64,
+“comparison_rate_pct”: 6.02,
+“upfront_fees_aud”: null,
+“ongoing_fees_aud_per_year”: null,
+“min_loan_amount_aud”: null,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: 60,
+“features”: [“offset”, “extra_repayments”],
+“notes”: [
+“Rate shown on HSBC products page for owner occupied P&I with Home Loan Package, 60% LVR or less.”,
+“Home Loan Package fees (if any) not captured in retrieved snippet.”
+],
+“source_urls”: [
+“https://www.hsbc.com.au/home-loans/products/”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “HSBC Australia”,
+“parent_group”: “HSBC Group”,
+“loan_type”: “home”,
+“product_name”: “HSBC Fixed Rate Home Loan - 2 Year Fixed (Owner Occupier P&I with Home Loan Package, LVR ≤ 60%)”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “fixed”,
+“interest_rate_pct”: 5.99,
+“comparison_rate_pct”: 6.15,
+“upfront_fees_aud”: null,
+“ongoing_fees_aud_per_year”: null,
+“min_loan_amount_aud”: null,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: 60,
+“features”: [“offset”],
+“notes”: [
+“Rate selected from HSBC ‘Compare Home Loans Interest Rate’ page for owner occupiers fixed rate term 2 years, LVR 60% or less with Home Loan Package.”
+],
+“source_urls”: [
+“https://www.hsbc.com.au/home-loans/products/rates/”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “Suncorp Bank”,
+“parent_group”: “ANZ Group”,
+“loan_type”: “home”,
+“product_name”: “Suncorp Better Together Home Loan - Variable (Owner Occupier P&I, LVR ≤ 60%)”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “variable”,
+“interest_rate_pct”: 5.64,
+“comparison_rate_pct”: 5.65,
+“upfront_fees_aud”: null,
+“ongoing_fees_aud_per_year”: null,
+“min_loan_amount_aud”: 150000,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: 60,
+“features”: [],
+“notes”: [
+“Rates selected from Suncorp ‘Special offer rates’ PDF for Better Together Home Loan owner occupied P&I at LVR ≤ 60%.”,
+“Special offer section indicates eligibility includes being new to bank or refinancing customers with loan amount ≥ $150,000 (as shown on the offers page).”
+],
+“source_urls”: [
+“https://www.suncorpbank.com.au/home-loans/interest-rates/special-offer-rates.html”,
+“https://www.suncorpbank.com.au/content/dam/suncorpbank/pdf/home-loans/hl-0057-interest-rate-guide.pdf”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “Suncorp Bank”,
+“parent_group”: “ANZ Group”,
+“loan_type”: “home”,
+“product_name”: “Suncorp Fixed Rate Home Loan (Standard) - 2 Year Fixed (Owner Occupier P&I)”,
+“customer_type”: “owner_occupier”,
+“repayment_type”: “P&I”,
+“rate_type”: “fixed”,
+“interest_rate_pct”: 6.59,
+“comparison_rate_pct”: 8.45,
+“upfront_fees_aud”: null,
+“ongoing_fees_aud_per_year”: null,
+“min_loan_amount_aud”: null,
+“max_loan_amount_aud”: null,
+“max_lvr_pct”: null,
+“features”: [],
+“notes”: [
+“Rates selected from Suncorp ‘Interest rate guide’ PDF under Fixed Rate (standard) Annual Percentage Rate (discount not applied), 2 years term, owner occupied P&I.”
+],
+“source_urls”: [
+“https://www.suncorpbank.com.au/content/dam/suncorpbank/pdf/home-loans/hl-0057-interest-rate-guide.pdf”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+}
+]
+}

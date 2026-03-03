@@ -1,0 +1,244 @@
+{
+“last_updated”: “2026-03-03”,
+“lenders”: [
+{
+“lender”: “Commonwealth Bank”,
+“parent_group”: null,
+“loan_type”: “credit_card”,
+“product_name”: “CommBank Low Fee credit card”,
+“purchase_rate_pct”: 20.99,
+“cash_advance_rate_pct”: 21.99,
+“interest_free_days”: 44,
+“annual_fee_aud”: null,
+“min_credit_limit_aud”: 500,
+“max_credit_limit_aud”: null,
+“balance_transfer_offer”: {
+“bt_rate_pct”: null,
+“bt_months”: null,
+“bt_fee_pct”: null
+},
+“features”: [“balance_transfer”, “fraud_protection”],
+“source_urls”: [
+“https://www.commbank.com.au/credit-cards/low-fee.html”,
+“https://www.commbank.com.au/personal/apply-online/download-printed-forms/cc-keyfacts.pdf”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “Westpac”,
+“parent_group”: null,
+“loan_type”: “credit_card”,
+“product_name”: “Westpac Low Rate Card”,
+“purchase_rate_pct”: 13.74,
+“cash_advance_rate_pct”: 21.99,
+“interest_free_days”: 55,
+“annual_fee_aud”: 59,
+“min_credit_limit_aud”: 500,
+“max_credit_limit_aud”: null,
+“balance_transfer_offer”: {
+“bt_rate_pct”: 0,
+“bt_months”: 20,
+“bt_fee_pct”: 3
+},
+“features”: [“balance_transfer”, “fraud_protection”],
+“source_urls”: [
+“https://www.westpac.com.au/personal-banking/credit-cards/credit-cards-fact-sheet/”,
+“https://www.westpac.com.au/personal-banking/credit-cards/balance-transfer-cards/”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “NAB”,
+“parent_group”: null,
+“loan_type”: “credit_card”,
+“product_name”: “NAB Low Fee Card”,
+“purchase_rate_pct”: null,
+“cash_advance_rate_pct”: 21.74,
+“interest_free_days”: 44,
+“annual_fee_aud”: 30,
+“min_credit_limit_aud”: 1000,
+“max_credit_limit_aud”: null,
+“balance_transfer_offer”: {
+“bt_rate_pct”: 0,
+“bt_months”: 12,
+“bt_fee_pct”: 3
+},
+“features”: [“balance_transfer”, “fraud_protection”],
+“source_urls”: [
+“https://www.nab.com.au/personal/credit-cards/low-fee-cards/nab-low-fee-card”,
+“https://www.nab.com.au/personal/credit-cards/low-fee-cards”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “ANZ”,
+“parent_group”: null,
+“loan_type”: “credit_card”,
+“product_name”: “ANZ First”,
+“purchase_rate_pct”: 20.99,
+“cash_advance_rate_pct”: 21.99,
+“interest_free_days”: 55,
+“annual_fee_aud”: 30,
+“min_credit_limit_aud”: 1000,
+“max_credit_limit_aud”: null,
+“balance_transfer_offer”: {
+“bt_rate_pct”: 21.99,
+“bt_months”: null,
+“bt_fee_pct”: null
+},
+“features”: [“balance_transfer”, “fraud_protection”],
+“source_urls”: [
+“https://www.anz.com.au/personal/credit-cards/manage-your-credit-card/rates-fees-and-interest/”,
+“https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/au_KFS_Prop.pdf”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “HSBC Australia”,
+“parent_group”: null,
+“loan_type”: “credit_card”,
+“product_name”: “HSBC Low Rate Credit Card”,
+“purchase_rate_pct”: 12.99,
+“cash_advance_rate_pct”: 25.99,
+“interest_free_days”: 55,
+“annual_fee_aud”: 99,
+“min_credit_limit_aud”: 1000,
+“max_credit_limit_aud”: null,
+“balance_transfer_offer”: {
+“bt_rate_pct”: 0,
+“bt_months”: 12,
+“bt_fee_pct”: 2
+},
+“features”: [“balance_transfer”, “fraud_protection”],
+“source_urls”: [
+“https://www.hsbc.com.au/credit-cards/products/low-rate/”,
+“https://www.hsbc.com.au/content/dam/hsbc/au/docs/credit-cards/terms/key-facts-sheet.pdf”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “ING”,
+“parent_group”: null,
+“loan_type”: “credit_card”,
+“product_name”: “Orange One Low Rate”,
+“purchase_rate_pct”: null,
+“cash_advance_rate_pct”: null,
+“interest_free_days”: null,
+“annual_fee_aud”: 48,
+“min_credit_limit_aud”: 1000,
+“max_credit_limit_aud”: 30000,
+“balance_transfer_offer”: {
+“bt_rate_pct”: null,
+“bt_months”: null,
+“bt_fee_pct”: null
+},
+“features”: [“fraud_protection”],
+“source_urls”: [
+“https://www.ing.com.au/credit-cards/orange-one-low-rate.html”,
+“https://www.ing.com.au/pdf/orangeone/fees_and_limits_schedule.pdf”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “Bendigo Bank”,
+“parent_group”: null,
+“loan_type”: “credit_card”,
+“product_name”: “Bendigo Ready Credit Card”,
+“purchase_rate_pct”: 19.99,
+“cash_advance_rate_pct”: 19.99,
+“interest_free_days”: 55,
+“annual_fee_aud”: 0,
+“min_credit_limit_aud”: 3000,
+“max_credit_limit_aud”: null,
+“balance_transfer_offer”: {
+“bt_rate_pct”: 19.99,
+“bt_months”: null,
+“bt_fee_pct”: null
+},
+“features”: [“balance_transfer”, “fraud_protection”, “no_annual_fee”],
+“source_urls”: [
+“https://www.bendigobank.com.au/personal/credit-cards/ready/”,
+“https://www.bendigobank.com.au/globalassets/documents/personal/creditcards/credit-cards-key-fact-sheet.pdf”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “Bank of Queensland”,
+“parent_group”: null,
+“loan_type”: “credit_card”,
+“product_name”: “BOQ Low Rate Credit Card”,
+“purchase_rate_pct”: 13.99,
+“cash_advance_rate_pct”: 21.99,
+“interest_free_days”: 55,
+“annual_fee_aud”: 65,
+“min_credit_limit_aud”: 2000,
+“max_credit_limit_aud”: null,
+“balance_transfer_offer”: {
+“bt_rate_pct”: null,
+“bt_months”: null,
+“bt_fee_pct”: null
+},
+“features”: [“balance_transfer”, “fraud_protection”],
+“source_urls”: [
+“https://www.boq.com.au/content/dam/boq/files/target-market-determinations/boq-low-rate-credit-card.pdf”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “Latitude Financial”,
+“parent_group”: null,
+“loan_type”: “credit_card”,
+“product_name”: “Latitude Low Rate Mastercard”,
+“purchase_rate_pct”: 13.99,
+“cash_advance_rate_pct”: 29.99,
+“interest_free_days”: 55,
+“annual_fee_aud”: 69,
+“min_credit_limit_aud”: 1000,
+“max_credit_limit_aud”: null,
+“balance_transfer_offer”: {
+“bt_rate_pct”: 0,
+“bt_months”: 24,
+“bt_fee_pct”: 3
+},
+“features”: [“balance_transfer”, “fraud_protection”],
+“source_urls”: [
+“https://www.latitudefinancial.com.au/credit-cards/low-rate/”,
+“https://www.latitudefinancial.com.au/credit-cards/”,
+“https://www.finder.com.au/credit-cards/latitude-financial-services-credit-cards/latitude-low-rate-mastercard”
+],
+“source_quality”: “mixed”,
+“last_updated”: “2026-03-03”
+},
+{
+“lender”: “American Express Australia”,
+“parent_group”: “American Express”,
+“loan_type”: “credit_card”,
+“product_name”: “American Express Essential Rewards Credit Card”,
+“purchase_rate_pct”: 23.99,
+“cash_advance_rate_pct”: null,
+“interest_free_days”: 55,
+“annual_fee_aud”: null,
+“min_credit_limit_aud”: 2000,
+“max_credit_limit_aud”: null,
+“balance_transfer_offer”: {
+“bt_rate_pct”: null,
+“bt_months”: null,
+“bt_fee_pct”: null
+},
+“features”: [“rewards”, “fraud_protection”],
+“source_urls”: [
+“https://www.americanexpress.com/content/dam/amex/au/staticassets/pdf/au_KFS_Prop.pdf”
+],
+“source_quality”: “official_only”,
+“last_updated”: “2026-03-03”
+}
+]
+}
